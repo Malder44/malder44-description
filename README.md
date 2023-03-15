@@ -1,5 +1,5 @@
 - 👋 Olá, sou o @Malder44.
-- Eu sou um estudante de Ciências da Computação na Universidade Federal de Juiz de Fora.
+- Eu sou um estudante de Ciência da Computação na Universidade Federal de Juiz de Fora.
 - Atualmente, eu estou aprendendo e focando em desenvolvimento Front-End, trabalhando com os básicos de HTML5, CSS3 e JS, por enquanto. Meus próximos passos são ir mais fundo por este ramo e explorar mais deste vasto mundo do front-end.
 - No momento estou recriando alguns projetos feitos em algumas aulas da Alura, criando projetos similares e fazendo alguns projetos reais.
 - Sintam-se à vontade para falarem comigo!
